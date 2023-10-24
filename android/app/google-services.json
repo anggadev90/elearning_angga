@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888362757367",
+    "project_id": "elearningdemo-24e06",
+    "storage_bucket": "elearningdemo-24e06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888362757367:android:2d42f8f518fddcbe3e77f2",
+        "android_client_info": {
+          "package_name": "com.example.elearning_angga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888362757367-s2qm2cuog0ef6bcaf1b7vkjdro6iir3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFe1RG3ONHAWjCfKRvhSHbaKP_hq8xfA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888362757367-s2qm2cuog0ef6bcaf1b7vkjdro6iir3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
